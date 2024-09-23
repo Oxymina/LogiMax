@@ -1,0 +1,5 @@
+1;banans;3.44;3000;1;maxima;1;karlis
+2;abols;2.33;1000;2;rimi;2;kristaps
+3;burkans;3.55;3000;3;mego;4;lainis
+5;cepumi;5.66;3000;6;lidl;6;fredis
+132;13;132;1233;132;12313;123;123
